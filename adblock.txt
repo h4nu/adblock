@@ -1,0 +1,4 @@
+# Custom block list for finnish ad hosts
+nelonenmedia-pmd-ads-manual.nm-stream.nelonenmedia.fi
+nelonenmedia-pmd-ads-spotgate.nm-stream.nelonenmedia.fi
+vg.is.fi
